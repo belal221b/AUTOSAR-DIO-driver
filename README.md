@@ -54,4 +54,4 @@ DIO_E_UNINIT: DET code for API service called without module initialization.
     - Patch Version: 0
 
 # **Credits**
-This DIO Driver header file was created by Belal Mohamed.
+This DIO Driver was created by Belal Mohamed.
